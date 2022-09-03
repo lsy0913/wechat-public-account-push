@@ -7,7 +7,7 @@ export const config = {
   APP_ID: "wxa3bc49bb3789552e",
 
   // 公众号APP_SECRET
-  APP_SECRET: "608ad221d74b502a51800fe4eeaf0ef3",
+  APP_SECRET: "39c1e542175296c87c85f0a1b860134b",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -18,7 +18,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ovhVR56lUgDSCPh_WXuKydJsthZw",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
+   *    useTemplateId: "hCGEkGZuEXfX6c7yGq00HesFAHLI2F7imPqCANeTBv0	",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -36,8 +36,8 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
+      name: "珠珠", 
+      id: ""ovhVR56lUgDSCPh_WXuKydJsthZw",
       useTemplateId: "Wue80GrtY1nAia24tam-FDxZF9WNx39pwcBc0LMpANnu8",
       openUrl: "https://baidu.com"
     }, 
